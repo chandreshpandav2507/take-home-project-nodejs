@@ -1,4 +1,4 @@
-x   # Set Up
+# Set Up
 
 ## Install Dependencies
 Run `npm install` to install dependencies.
